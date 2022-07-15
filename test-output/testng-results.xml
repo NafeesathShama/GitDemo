@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48" started-at="2022-07-14T16:31:30Z" finished-at="2022-07-14T16:31:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48" started-at="2022-07-14T16:31:30Z" finished-at="2022-07-14T16:31:30Z">
+      <class name="Programs.RepeatedCharacter">
+        <test-method status="PASS" signature="name()[pri:0, instance:Programs.RepeatedCharacter@49993335]" name="name" duration-ms="24" started-at="2022-07-14T22:01:30Z" finished-at="2022-07-14T22:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- Programs.RepeatedCharacter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
